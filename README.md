@@ -3,3 +3,4 @@
 > 이름: github 주소
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+* **이혜진** [https://github.com/alynxlee](https://github.com/alynxlee)
