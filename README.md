@@ -4,4 +4,6 @@
 
 _2209019_
 
+* **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+
 * **김동건** [https://github.com/ThioKDG](https://github.com/ThioKDG)
