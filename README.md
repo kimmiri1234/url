@@ -23,3 +23,4 @@ _220919_
 * **김지훈** [https://github.com/vanmong](https://github.com/vanmong)
 * **조건희** [https://github.com/cshlim](https://github.com/cshelim)
 * **주서현** [https://github.com/seohyun56](https://github.com/seohyun56)
+* **이하림** [https://github.com/mirah-lee](https://github.com/mirah-lee)
