@@ -22,3 +22,4 @@ _220919_
 * **이지선** [https://github.com/sunsun916](https://github.com/sunsun916)
 * **김지훈** [https://github.com/vanmong](https://github.com/vanmong)
 * **조건희** [https://github.com/cshlim](https://github.com/cshelim)
+* **주서현** [https://github.com/seohyun56](https://github.com/seohyun56)
