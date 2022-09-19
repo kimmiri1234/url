@@ -5,6 +5,7 @@
 _220919_ 
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+* **김건호** [https://github.com/frdytheme](https://github.com/frdytheme)
 * **정혜진** [https://github.com/gpwks8031](https://github.com/gpwks8031)
 **jang394** [https://github.com/jang394](https://github.com/jang394)
 * **김수현** [https://github.com/soohyun08](https://github.com/soohyun08)
