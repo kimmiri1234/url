@@ -5,4 +5,4 @@ _220919_
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
 
-* **김수현** https://github.com/soohyun08
+* **김수현** [https://github.com/soohyun08](https://github.com/soohyun08)
