@@ -4,4 +4,4 @@
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
 
-김건호 [https://github.com/frdytheme](https://github.com/frdytheme)
+* **김건호** [https://github.com/frdytheme](https://github.com/frdytheme)
