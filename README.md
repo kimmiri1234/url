@@ -5,6 +5,7 @@
 _220919_
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+* **마해정** [https://github.com/gowjdqkqh9](https://github.com/gowjdqkqh9)
 * **박이슬** [https://github.com/yis-park/url](https://github.com/yis-park)
 김현아: [https://github.com/kim-hyeona991113](https://github.com/kim-hyeona991113)
 * **설유미** [https://github.com/yoom2323](https://github.com/yoom2323)
