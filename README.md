@@ -7,4 +7,4 @@ _220919_
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
 * **설유미** [https://github.com/yoom2323](https://github.com/yoom2323)ㄴ
-* **김미리** [https://github.com/kim-irin](https://github.com/kim-irin)
+* **김이린** [https://github.com/kim-irin](https://github.com/kim-irin)
