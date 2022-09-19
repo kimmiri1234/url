@@ -5,6 +5,7 @@
 _220919_ 
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+* **정혜진** [https://github.com/gpwks8031](https://github.com/gpwks8031)
 **jang394** [https://github.com/jang394](https://github.com/jang394)
 * **김수현** [https://github.com/soohyun08](https://github.com/soohyun08)
 * **고먐미** [https://github.com/cksgml529/url](https://github.com/cksgml529/url)
@@ -26,3 +27,4 @@ _220919_
 * **조건희** [https://github.com/cshlim](https://github.com/cshelim)
 * **주서현** [https://github.com/seohyun56](https://github.com/seohyun56)
 * **이하림** [https://github.com/mirah-lee](https://github.com/mirah-lee)
+
