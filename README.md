@@ -16,6 +16,7 @@ _220919_
 * **김동건** [https://github.com/ThioKDG](https://github.com/ThioKDG)
 * **설유미** [https://github.com/yoom2323](https://github.com/yoom2323)
 * **서혜경** [https://github.com/999azmo](https://github.com/999azmo)
+* **이재은** [https://github.com/LJaeeun](https://github.com/LJaeeun)
 * **이지선** [https://github.com/sunsun916](https://github.com/sunsun916)
 * **김지훈** [https://github.com/vanmong](https://github.com/vanmong)
 * **조건희** [https://github.com/cshlim](https://github.com/cshelim)
