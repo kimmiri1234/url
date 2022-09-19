@@ -5,6 +5,7 @@
 _220919_
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+* **고먐미** [https://github.com/cksgml529/url](https://github.com/cksgml529/url)
 * **김나윤** [http://github.com/sun09vmfl](http://github.com/sun09vmfl)
 * **오대균** [https://github.com/rbsss2](https://github.com/rbsss2)
 * **마해정** [https://github.com/gowjdqkqh9](https://github.com/gowjdqkqh9)
