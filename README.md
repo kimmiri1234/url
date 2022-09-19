@@ -28,4 +28,4 @@ _220919_
 * **조건희** [https://github.com/cshlim](https://github.com/cshelim)
 * **주서현** [https://github.com/seohyun56](https://github.com/seohyun56)
 * **이하림** [https://github.com/mirah-lee](https://github.com/mirah-lee)
-
+* **김이린** [https://github.com/kim-irin](https://github.com/kim-irin)
